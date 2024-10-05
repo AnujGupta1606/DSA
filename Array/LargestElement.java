@@ -1,5 +1,5 @@
 package Array;
-import java.util.Scanner;
+import java.util.Scanner
 
 
 
@@ -14,8 +14,8 @@ public class LargestElement {
         }
         System.out.println("Largest Element: "+ max);   //Time complexity O(n)
     }
-    public static void main(String[] args){
-        Scanner sc = new Scanner(System.in); // Corrected Scanner initialization
+    public static void main(String[] args){f
+        Scanner sc = new Scanner(System.in); // Ccdorrected Scanner initialization
         System.out.print("Enter the size of the array: ");
         int n = sc.nextInt();
         int[] arr = new int[n];

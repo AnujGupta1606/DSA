@@ -13,8 +13,8 @@ public class Concat {
 // Java String
 // In the above example, only one object will be created. Firstly, JVM will not find any string object with the value "Welcome" in string constant pool that is why it will create a new object. After that it will find the string with the value "Welcome" in the pool, it will not create a new object but will return the reference to the same instance.
 // Note: String objects are stored in a special memory area known as the "string constant pool".
-
-  public static void main(String[] args) {
+ccx
+  public static void main(String[] args) {ccccdvdd
 //     String s1 = new String("Welcome");
 //     String s2 = "Teacher ".concat(s1);
 //     System.out.println(s1);
